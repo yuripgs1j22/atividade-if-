@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yuri54978216\\Documents\\atividade if\\atividade 01\\atividade 01\\atividade 01.csproj": {}
+    "C:\\Users\\yuri54978216\\Documents\\atividade if\\Atividade 02\\Atividade 04\\Atividade 04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yuri54978216\\Documents\\atividade if\\atividade 01\\atividade 01\\atividade 01.csproj": {
+    "C:\\Users\\yuri54978216\\Documents\\atividade if\\Atividade 02\\Atividade 04\\Atividade 04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yuri54978216\\Documents\\atividade if\\atividade 01\\atividade 01\\atividade 01.csproj",
-        "projectName": "atividade 01",
-        "projectPath": "C:\\Users\\yuri54978216\\Documents\\atividade if\\atividade 01\\atividade 01\\atividade 01.csproj",
+        "projectUniqueName": "C:\\Users\\yuri54978216\\Documents\\atividade if\\Atividade 02\\Atividade 04\\Atividade 04.csproj",
+        "projectName": "Atividade 04",
+        "projectPath": "C:\\Users\\yuri54978216\\Documents\\atividade if\\Atividade 02\\Atividade 04\\Atividade 04.csproj",
         "packagesPath": "C:\\Users\\yuri54978216\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yuri54978216\\Documents\\atividade if\\atividade 01\\atividade 01\\obj\\",
+        "outputPath": "C:\\Users\\yuri54978216\\Documents\\atividade if\\Atividade 02\\Atividade 04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
