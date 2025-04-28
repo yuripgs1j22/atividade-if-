@@ -3,7 +3,7 @@
     static void Main()
     {
         int idade = 17;
-        bool comportamentoSuspeito = true;
+        bool comportamentoSuspeito = false;
         if (idade < 18 || comportamentoSuspeito)
         {
             Console.WriteLine("Pessoa suspeita");

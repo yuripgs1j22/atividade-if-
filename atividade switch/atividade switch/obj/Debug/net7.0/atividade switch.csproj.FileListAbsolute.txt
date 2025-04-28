@@ -1,0 +1,14 @@
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\obj\Debug\net7.0\atividade switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\obj\Debug\net7.0\atividade switch.AssemblyInfoInputs.cache
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\obj\Debug\net7.0\atividade switch.AssemblyInfo.cs
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\obj\Debug\net7.0\atividade switch.csproj.CoreCompileInputs.cache
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\bin\Debug\net7.0\atividade switch.exe
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\bin\Debug\net7.0\atividade switch.deps.json
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\bin\Debug\net7.0\atividade switch.runtimeconfig.json
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\bin\Debug\net7.0\atividade switch.dll
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\bin\Debug\net7.0\atividade switch.pdb
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\obj\Debug\net7.0\atividade switch.dll
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\obj\Debug\net7.0\refint\atividade switch.dll
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\obj\Debug\net7.0\atividade switch.pdb
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\obj\Debug\net7.0\atividade switch.genruntimeconfig.cache
+C:\Users\yuri54978216\Documents\atividade if\atividade switch\atividade switch\obj\Debug\net7.0\ref\atividade switch.dll

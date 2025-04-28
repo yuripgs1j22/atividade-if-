@@ -1,0 +1,14 @@
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\bin\Debug\net7.0\Atividade 10.exe
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\bin\Debug\net7.0\Atividade 10.deps.json
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\bin\Debug\net7.0\Atividade 10.runtimeconfig.json
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\bin\Debug\net7.0\Atividade 10.dll
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\bin\Debug\net7.0\Atividade 10.pdb
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\obj\Debug\net7.0\Atividade 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\obj\Debug\net7.0\Atividade 10.AssemblyInfoInputs.cache
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\obj\Debug\net7.0\Atividade 10.AssemblyInfo.cs
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\obj\Debug\net7.0\Atividade 10.csproj.CoreCompileInputs.cache
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\obj\Debug\net7.0\Atividade 10.dll
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\obj\Debug\net7.0\refint\Atividade 10.dll
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\obj\Debug\net7.0\Atividade 10.pdb
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\obj\Debug\net7.0\Atividade 10.genruntimeconfig.cache
+C:\Users\yuri54978216\Documents\atividade if\Atividade 02\Atividade 10\obj\Debug\net7.0\ref\Atividade 10.dll

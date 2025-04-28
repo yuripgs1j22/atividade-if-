@@ -1,0 +1,4 @@
+C:\Users\yuri54978216\Documents\atividade if\Atividade\Atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri54978216\Documents\atividade if\Atividade\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\yuri54978216\Documents\atividade if\Atividade\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Users\yuri54978216\Documents\atividade if\Atividade\Atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
