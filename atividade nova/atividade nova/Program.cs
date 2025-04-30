@@ -6,7 +6,7 @@
 
         while (contador <= 10)
         {
-            Console.WriteLine(contador);
+            Console.WriteLin(contador);
             contador = contador + 1;
         }
     }
